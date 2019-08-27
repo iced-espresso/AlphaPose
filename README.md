@@ -3,7 +3,8 @@
     <img src="doc/logo.jpg", width="400">
 </div>
 
-## This is My revision of the AlphaPose(https://github.com/MVIG-SJTU/AlphaPose)
+## This is My revision of the AlphaPose
+(https://github.com/MVIG-SJTU/AlphaPose)
 
 
 ## News!
